@@ -1,0 +1,10 @@
+*.pdf
+**/data
+*.off
+build/
+*.cmake
+*.sln
+*.vcxproj*
+result/
+.DS_Store
+libs/
